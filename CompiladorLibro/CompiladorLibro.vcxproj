@@ -139,16 +139,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Hector\source\repos\hectoristy\compilador1.0\analizlex.c" />
-    <ClCompile Include="C:\Users\Hector\source\repos\hectoristy\compilador1.0\inic.c" />
-    <ClCompile Include="C:\Users\Hector\source\repos\hectoristy\compilador1.0\analizsint.c" />
-    <ClCompile Include="C:\Users\Hector\source\repos\hectoristy\compilador1.0\emisor.c" />
-    <ClCompile Include="C:\Users\Hector\source\repos\hectoristy\compilador1.0\error.c" />
-    <ClCompile Include="C:\Users\Hector\source\repos\hectoristy\compilador1.0\principal.c" />
-    <ClCompile Include="C:\Users\Hector\source\repos\hectoristy\compilador1.0\simbolos.c" />
+    <ClCompile Include="analizlex.c" />
+    <ClCompile Include="analizsint.c" />
+    <ClCompile Include="emisor.c" />
+    <ClCompile Include="error.c" />
+    <ClCompile Include="inic.c" />
+    <ClCompile Include="principal.c" />
+    <ClCompile Include="simbolos.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\Hector\source\repos\hectoristy\compilador1.0\global.h" />
+    <ClInclude Include="global.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

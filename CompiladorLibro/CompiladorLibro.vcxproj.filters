@@ -15,30 +15,30 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Hector\source\repos\hectoristy\compilador1.0\error.c">
+    <ClCompile Include="analizlex.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Hector\source\repos\hectoristy\compilador1.0\principal.c">
+    <ClCompile Include="inic.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Hector\source\repos\hectoristy\compilador1.0\simbolos.c">
+    <ClCompile Include="analizsint.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Hector\source\repos\hectoristy\compilador1.0\analizlex.c">
+    <ClCompile Include="emisor.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Hector\source\repos\hectoristy\compilador1.0\inic.c">
+    <ClCompile Include="error.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Hector\source\repos\hectoristy\compilador1.0\analizsint.c">
+    <ClCompile Include="principal.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Hector\source\repos\hectoristy\compilador1.0\emisor.c">
+    <ClCompile Include="simbolos.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\Hector\source\repos\hectoristy\compilador1.0\global.h">
+    <ClInclude Include="global.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>
